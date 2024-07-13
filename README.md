@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Godson Koithodathu</h1>
 <h2 align="center">Electronics and Telecommunication Engineer</h2>
 <h4 align="center">From Inida</h4>
+<hr>
 <h3 align="center">Passionate coder exploring the endless possibilities of tech. 🚀 | #CodeForFun</h3>
 <hr>
 

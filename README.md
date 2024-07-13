@@ -8,7 +8,7 @@
 - 💬 **"Feel free to ask me about Python and its libraries, as well as HTML and CSS!"**
 
 - 📫 "Contact me via email at **godsonabraham77@gmail.com**"
-- <hr>
+ <hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Godson Koithodathu</h1>
 <h2 align="center">Electronics and Telecommunication Engineer</h2>
-<h4>From Inida</h4>
+<h4 align="center">From Inida</h4>
 <h3 align="center">Passionate coder exploring the endless possibilities of tech. 🚀 | #CodeForFun</h3>
 
 - 🌱 **I am currently immersed in learning Automation with PLC and HMI systems, alongside honing my programming skills in web development using Python libraries and Flask.**

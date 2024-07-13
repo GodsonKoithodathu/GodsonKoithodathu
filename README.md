@@ -2,11 +2,13 @@
 <h2 align="center">Electronics and Telecommunication Engineer</h2>
 <h4 align="center">From Inida</h4>
 <h3 align="center">Passionate coder exploring the endless possibilities of tech. 🚀 | #CodeForFun</h3>
+<hr>
 
 - 🌱 **I am currently immersed in learning Automation with PLC and HMI systems, alongside honing my programming skills in web development using Python libraries and Flask.**
 - 💬 **"Feel free to ask me about Python and its libraries, as well as HTML and CSS!"**
 
 - 📫 "Contact me via email at **godsonabraham77@gmail.com**"
+- <hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

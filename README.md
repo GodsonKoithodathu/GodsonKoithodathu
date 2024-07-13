@@ -2,9 +2,9 @@
 <h3 align="center">Passionate coder exploring the endless possibilities of tech. 🚀 | #CodeForFun</h3>
 
 - 🌱 **I am currently immersed in learning Automation with PLC and HMI systems, alongside honing my programming skills in web development using Python libraries and Flask.**
-- 💬 Ask me about **Python and its Libraries, HTML and CSS**
+- 💬 **"Feel free to ask me about Python and its libraries, as well as HTML and CSS!"**
 
-- 📫 How to reach me **godsonabraham77@gmail.com**
+- 📫 "Contact me via email at **godsonabraham77@gmail.com**"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

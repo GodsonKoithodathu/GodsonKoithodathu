@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Godson Koithodathu</h1>
 <h3 align="center">Passionate coder exploring the endless possibilities of tech. 🚀 | #CodeForFun</h3>
 
-- 🌱 I’m currently learning **Automation with PLC and HMI and also enhancing my skills for programming skills using the web development using the python libraries and flask**
-
+- 🌱 **I am currently immersed in learning Automation with PLC and HMI systems, alongside honing my programming skills in web development using Python libraries and Flask.**
 - 💬 Ask me about **Python and its Libraries, HTML and CSS**
 
 - 📫 How to reach me **godsonabraham77@gmail.com**

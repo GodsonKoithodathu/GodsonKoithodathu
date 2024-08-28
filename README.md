@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Proficient in Python programming with a focus on data analysis and web scraping using libraries such as Pandas, BeautifulSoup, and Requests. Skilled in SQL for database management and experienced in web development with HTML, CSS, and Flask. Additionally, I specialize in PLC programming and HMI development for industrial automation.**
 
-- 💬 Ask me about **Python and its Libraries, HTML and CSS, PLC programming and HMI**
+- 💬 Feel free to ask me about Python and its libraries, HTML and CSS, PLC programming, and HMI development**
 
 - 📫 How to reach me **godsonabraham77@gmail.com**
 <hr>

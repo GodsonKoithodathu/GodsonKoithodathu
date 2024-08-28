@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Godson Koithodathu</h1>
 <h3 align="center">Passionate coder exploring the endless possibilities of tech. 🚀 | #CodeForFun</h3>
 <h4 align="center">From INDIA</h4>
+<hr>
 
 - 🌱 I’m currently learning **Proficient in Python programming with a focus on data analysis and web scraping using libraries such as Pandas, BeautifulSoup, and Requests. Skilled in SQL for database management and experienced in web development with HTML, CSS, and Flask. Additionally, I specialize in PLC programming and HMI development for industrial automation.**
 

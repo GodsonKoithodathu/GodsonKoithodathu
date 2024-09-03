@@ -1,7 +1,7 @@
 ![logo](https://github.com/GodsonKoithodathu/GodsonKoithodathu/blob/main/Godson%20Koithodathu.png)
 
 <h1 align="center">Hi 👋, I'm Godson Koithodathu</h1>
-<h3 align="center">Passionate coder exploring the endless possibilities of tech. 🚀 | #CodeForFun</h3>
+<h3 align="center">Passionate coder exploring the endless possibilities of tech. 🚀  #CodeForFun</h3>
 <h4 align="center">From INDIA</h4>
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <hr>

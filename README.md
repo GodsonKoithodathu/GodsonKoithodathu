@@ -10,7 +10,7 @@
 
 - 💬 Feel free to ask me about Python and its libraries, HTML and CSS, PLC programming, and HMI development**
 
-- 📫 How to reach me **godsonabraham77@gmail.com**
+- 📫 You can mail me on **godsonabraham77@gmail.com**
 - 📄 Know about my experiences [Link to my Resume](https://drive.google.com/file/d/1hf8Gx7M4vm1SyfzbQYHgXdp_qTyo6MFx/view?usp=drive_link)
 <hr>
 

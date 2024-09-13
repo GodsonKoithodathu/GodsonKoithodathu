@@ -11,7 +11,7 @@
 - 💬 Feel free to ask me about Python and its libraries, HTML and CSS, PLC programming, and HMI development**
 
 - 📫 You can mail me on **godsonabraham77@gmail.com**
-- 📄 Know about my experiences [Link to my Resume](https://drive.google.com/file/d/1RSASL2Gd0Q3_K76YM4zVSHnNsq7xvVq1/view?usp=sharing)
+- 📄 Know about my experiences [Link to my Resume](https://drive.google.com/file/d/1ywwIsz9LS_aeN5q0B9KWZI0H6jiN4Nm6/view?usp=sharing)
 <hr>
 
 <h3 align="left">Connect with me:</h3>
